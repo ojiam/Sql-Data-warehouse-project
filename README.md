@@ -9,7 +9,6 @@ The goal of this project is to showcase skills in data engineering, SQL developm
 ## Technologies Used
 
 - Microsoft SQL Server
-- T-SQL
 - ETL Processes
 - Data Modelling (Star Schema)
-- Power BI
+
